@@ -1,2 +1,2 @@
-# LandingSubscription
+# vico-landingpage
 Created with CodeSandbox
